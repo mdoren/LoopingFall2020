@@ -32,3 +32,4 @@ fun main() {
         (userInput - userInput)
     } while (userInput != 1 or 2 or 3 or 4 or 5 or 6 or 7)
     //I wanted this to not re-display the menu when you input 1..7 but it seems to do that anyways.
+}
